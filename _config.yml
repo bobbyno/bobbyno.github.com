@@ -1,0 +1,16 @@
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+auto: true
+rdiscount:
+  extensions: [smart]
+title : Bobby Norton
+production_url : http://www.bobbynorton.com
+description: "Better atoms through bits..."
+disqus_shortname: bobbyno
+analytics: UA-
+gauges: 50f
+author :
+  name : Bobby Norton
+  github : bobbyno
+  twitter : bobbynorton
