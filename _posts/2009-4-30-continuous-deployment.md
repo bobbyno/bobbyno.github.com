@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Continuous Deployment&#58; The expanded definition of CI
+title: Continuous Deployment&#58; The expanded definition of CI
 category: continuous integration
 ---
 
