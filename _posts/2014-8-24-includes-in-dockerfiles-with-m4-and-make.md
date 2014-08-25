@@ -133,7 +133,7 @@ Personally, If you feel the need to break your Dockerfile into included snippets
 
 That said, [dev environment containers](http://blog.docker.com/2014/07/10-docker-tips-and-tricks-that-will-make-you-sing-a-whale-song-of-joy/) are likely to be more complex than a typical application component container. Experimenting with a few dev containers to hold all dependencies needed to develop a project is what prompted me to originally start looking for an include mechanism.
 
-The theory that this approach might be useful at a team level is one yet to be tested. I look forward to hearing feedback about this idea from my colleagues at [Outpace](http://www.outpace.com), as well as from the Docker community. If you have some advice, you can find me on Twitter [@bobbynorton](https://twitter.com/bobbynorton), and I'll also start a thread on the [Docker User mailing list](https://groups.google.com/forum/#!forum/docker-user).
+The theory that this approach might be useful at a team level is one yet to be tested. I look forward to hearing feedback about this idea from my colleagues at [Outpace](http://www.outpace.com), as well as from the Docker community. If you have some advice, you can find me on Twitter [@bobbynorton](https://twitter.com/bobbynorton). I've also started a thread on the [Docker User mailing list](https://groups.google.com/forum/#!topic/docker-user/oFdfa1H1x2U).
 
 ## Acknowledgments
 
