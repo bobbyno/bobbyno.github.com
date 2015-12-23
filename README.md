@@ -1,9 +1,11 @@
 # Blogging at bobbynorton.com
 
+Built with [Jekyll and GitHub Pages](https://help.github.com/articles/using-jekyll-with-pages/).
 
-## Running
 
-`jekyll serve`
+## Running Locally
+
+`bundle exec jekyll serve`
 
 Visit <http://localhost:4000>.
 
