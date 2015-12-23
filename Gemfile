@@ -1,4 +1,4 @@
-source :rubygems
+source 'https://rubygems.org'
 
-gem 'rdiscount'
-gem 'jekyll'
+gem 'jekyll', '3.0.1'
+

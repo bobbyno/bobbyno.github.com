@@ -1,20 +1,18 @@
-# Blog
-
-
+# Blogging at bobbynorton.com
 
 
 ## Running
 
-`rake preview`
+`jekyll serve`
 
 Visit <http://localhost:4000>.
 
 
 ## License
 
-The contents of the _posts and images/ directory are Copyright Bobby Norton, All Rights Reserved.
+The contents of the `_posts` and `images` directories are © Bobby Norton.
 
-All other directories and files are MIT Licensed.
+All other files are MIT Licensed.
 
 
 ## Acknowledgments

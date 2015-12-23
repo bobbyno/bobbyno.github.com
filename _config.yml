@@ -1,12 +1,17 @@
-markdown: rdiscount
-pygments: true
-permalink: /posts/:title
-auto: true
-rdiscount:
-  extensions: [smart]
-title : Bobby Norton
-production_url : http://www.bobbynorton.com
-description: "Better atoms through bits..."
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Bobby Norton
+email: bobby@testedminds.com
+description: > # this means to ignore newlines until "baseurl:"
+  Making complex systems simpler and easier with quantitative applications and tools.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.bobbynorton.com" # the base hostname & protocol for your site
 disqus_shortname: bobbyno
 analytics: UA-38790074-1
 gauges: 512adf7d108d7b29e70000a3
@@ -15,3 +20,7 @@ author :
   github : bobbyno
   twitter : bobbynorton
   linkedin : bobbynorton
+permalink: posts/:title
+
+# Build settings
+markdown: kramdown
