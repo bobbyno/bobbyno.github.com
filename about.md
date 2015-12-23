@@ -1,7 +1,6 @@
 ---
 layout: layout
 title: About
-permalink: about
 ---
 
 <img src="/images/sandb.jpg" alt="Bobby and Sarah" class="noclip" style="padding-top: 20px; margin-left: 40px; float: right;" />
